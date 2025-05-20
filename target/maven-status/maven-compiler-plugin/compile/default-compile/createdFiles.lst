@@ -1,0 +1,9 @@
+prog4\beadando\ws\GetMovieData.class
+prog4\beadando\ws\GetMovieDataResponse.class
+prog4\beadando\ws\package-info.class
+prog4\beadando\ws\MovieDataResponse.class
+prog4\beadando\ws\MovieDataService.class
+prog4\beadando\ws\ObjectFactory.class
+prog4\beadando\ws\MovieDataRequest.class
+prog4\beadando\SoapClientServlet.class
+prog4\beadando\ws\Movie.class
